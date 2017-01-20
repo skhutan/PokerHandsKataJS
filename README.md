@@ -1,12 +1,15 @@
 # Poker Hands Kata
 
 ## How to Run Tests
+
+Run All Tests
+
 ```
 npm test
 ```
+Watching Tests
 
 ```
-Watching tests:
 npm install -g mocha
 mocha -w
 ```
